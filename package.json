@@ -38,8 +38,8 @@
   },
   "homepage": "https://github.com/alex3165/react-leaflet-draw#readme",
   "peerDependencies": {
-    "leaflet": "^1.0.3",
-    "react-leaflet": "^1.1.6",
+    "leaflet": "git://github.com/kuka/leaflet.git#master",
+    "react-leaflet": "git://github.com/kuka/react-leaflet.git#master",
     "leaflet-draw": "^0.4.9",
     "react": "^15.0.0 || ^16.0.0",
     "prop-types": "^15.5.2"
